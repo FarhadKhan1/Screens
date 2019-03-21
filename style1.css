@@ -1,0 +1,54 @@
+body{
+  background-image: url('../images/hostel.jpg');
+   background-size : cover;
+}
+#login-name{
+    font-size: 40px;
+    font-family: Arial;
+    color: white;
+}
+#login{
+    background-color: #0d0d0d;
+    min-height:500px;
+    opacity:0.90;
+    padding:40px 80px 40px 80px;
+}
+.user{
+     font-family: Arial;
+     font-size: 18px;
+    color:white;
+    
+}
+.user1{
+     font-family: Arial;
+     font-size: 13px;
+    color:white;
+    
+}
+#iconn{
+    background-color:#5cb85c;
+    border-color:#4cae4c;
+    color:white;
+}
+#iconn1{
+    background-color:#5cb85c;
+    border-color:#4cae4c;
+    color:white;
+}
+#text1{
+    border-radius:0px;
+    height:40px;
+    width:350px
+    
+}
+#text2{
+    border-radius:0px;
+    height:40px;
+    width:350px
+}
+.btn{
+    width:50%;
+    float:right;
+     height:40px;
+    font-size:15px;
+}
